@@ -39,11 +39,7 @@ Then open `index.html`, `index2.html`, or `index3.html` in your browser dependin
 ├── exercise-2.1.js       # Audio CAPTCHA logic
 ├── exercise-2.2.js       # Meyda analysis and visualization logic
 ├── exercise-2.3.js       # Speech recognition and shape drawing logic
-├── libraries/
-│   ├── p5.js
-│   ├── p5.sound.min.js
-│   ├── p5.speech.js
-│   └── meyda.min.js
+├── libraries/            # p5.js, p5.sound.min.js, p5.speech.js, meyda.min.js
 └── Ex2_files/            # Audio assets (background noise, sample sounds, music track)
 ```
 
